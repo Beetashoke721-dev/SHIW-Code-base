@@ -3,7 +3,7 @@
 
 import frappe
 
-
+#new comment
 @frappe.whitelist()
 def get_all_uom_settings():
     """Get all Number Card UOM settings as a dictionary"""
